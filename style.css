@@ -1,0 +1,13 @@
+div{
+    width: 940px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 250px;
+    border-style: solid;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+
+div:hover{
+    color: pink;
+}
